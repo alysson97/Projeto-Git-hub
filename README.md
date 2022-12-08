@@ -1,0 +1,1 @@
+Esse é um teste de uso da ferramenta Git.
